@@ -27,7 +27,8 @@ public class Slapshot extends Frame implements ActionLister, Runnable{
     menuitem3.addActionListener(this);
 
     menubar.add(menu1);
-    SetMenuBar(menubar);
+    //SetMenuBar(menubar);
+    //test
   })
 
 }
