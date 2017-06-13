@@ -675,4 +675,5 @@ class OkCancelDialog extends Dialog implements ActionListener
         }
         setVisible(false);
     }
+
 }
